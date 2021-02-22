@@ -1,3 +1,5 @@
 # asm-projekts
 
-WIP and maybe sometime finished
+WIP
+
+tested with GUI Turbo Assembler
